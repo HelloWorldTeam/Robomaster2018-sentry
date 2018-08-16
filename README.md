@@ -1,6 +1,6 @@
 # Robomaster2018-sentry
 - Zhejiang University
-- Team HelloWorld
+- Hello World Team
 - By LSS
 ![](https://github.com/LSS5773/Robomaster2018-sentry/blob/master/other/ZJU-sentry.jpg)
 ## Software Environment
